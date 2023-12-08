@@ -6,5 +6,5 @@ EFI中附带了Nootedred.kext 请去https://github.com/ChefKissInc/NootedRed/act
 
 支持系统 MacOS 13.6.1 Ventura ，Monterey请自行更换Monterey版本 AirportItlwm.kext  
 
-使用google chrome请关闭硬件加速，Firefox 同样  
+使用Google Chrome请关闭硬件加速，Firefox 同样  
 
